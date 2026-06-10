@@ -1,4 +1,4 @@
-name: cdfProjectName
+name: icapi_extraxtors
 sourceId: {{icapi_extractors_source_id}}
 capabilities:
   - datasetsAcl:

@@ -1,5 +1,5 @@
-name: cdfProjectName
-sourceId: ${DATA_PIPELINE_OEE_SOURCE_ID}
+name: oee_data_pipeline
+sourceId: {{data_pipeline_oee_source_id}}
 capabilities:
   - datasetsAcl:
       actions: [READ]
